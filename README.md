@@ -1,6 +1,6 @@
 ![Total Download](https://img.shields.io/github/downloads/telmi-litteratureaudio/contes-de-la-mere-pauline/total.svg)
 
-# [3+] Contes de la mère Pauline (FR)
+# [7+] Contes de la mère Pauline (FR)
 
 5 contes écrit et lu par Pauline Pucciano :
 
