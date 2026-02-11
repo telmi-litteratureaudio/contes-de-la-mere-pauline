@@ -2,7 +2,7 @@
 
 # [7+] Contes de la mère Pauline (FR)
 
-5 contes écrit et lu par Pauline Pucciano :
+5 contes écrits et lus par Pauline Pucciano :
 
 - Ava et la couronne du pouvoir :
 Ava a juste 15 ans, et l’épreuve que son aïeule lui impose pour devenir reine semble bien difficile à réaliser…
