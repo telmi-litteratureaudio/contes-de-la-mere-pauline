@@ -7,7 +7,7 @@
 - Ava et la couronne du pouvoir :
 Ava a juste 15 ans, et l’épreuve que son aïeule lui impose pour devenir reine semble bien difficile à réaliser…
     - Illustration de Laura Giraud
-    - Musique et chanson de Philippe Guerrieri
+    - Musiques et chansons de Philippe Guerrieri
 
 - Gouzabas :
 Il était une fois, dans une affreuse forêt, un ogre appelé Gouzabas. Comme tous les ogres, il était très grand, et avait une grosse voix, une grosse barbe et un très gros ventre. Mais ce n’était pas tout à fait un ogre comme les autres: il ne croquait pas de bébés roses, ni de petits poucets...
@@ -28,7 +28,7 @@ Le jeune Allan est bien raisonneur, et reproche toujours aux adultes de dire des
 
 
 > Category : Pack d"histoires
-> Voice : Pauline Pucciano (Musique : Philippe Guerrieri)
+> Voice : Pauline Pucciano (Musiques : Philippe Guerrieri)
 > Author : Pauline Pucciano
 > Designer : Laura Giraud, Cindie Machnik
 > Publisher : Litteratureaudio.com
